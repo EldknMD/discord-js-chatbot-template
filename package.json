@@ -20,6 +20,7 @@
     "discord",
     "javascript"
   ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "EldknMD",
   "license": "MIT",
   "bugs": {
