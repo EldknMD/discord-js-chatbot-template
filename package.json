@@ -1,0 +1,29 @@
+{
+  "name": "discord-js-chatbot-template",
+  "version": "1.0.0",
+  "description": "A simple discord chat bot template using discordjs.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^11.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EldknMD/discord-js-chatbot-template.git"
+  },
+  "keywords": [
+    "customizable",
+    "template",
+    "discordjs",
+    "discord",
+    "javascript"
+  ],
+  "author": "EldknMD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EldknMD/discord-js-chatbot-template/issues"
+  },
+  "homepage": "https://github.com/EldknMD/discord-js-chatbot-template#readme"
+}

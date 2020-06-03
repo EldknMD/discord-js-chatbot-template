@@ -1,0 +1,6 @@
+{
+	"prefix" : ">",
+	"token" : "Your bot Token",
+	"ownerID" : "Your user ID: using developer mode on discord, right click on yourself and then copy ID",
+	"dbotAuth" : "https://discordapp.com/oauth2/authorize?&client_id=(HERE YOU MUST PUT YOUR CLIENT ID WITHOUT PARENTHESIS)&permissions=(HERE YOU MUST PUT THE PERMISSIONS CODE WITHOUT PARENTHESIS)&scope=bot"
+}
