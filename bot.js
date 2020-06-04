@@ -15,7 +15,7 @@ client.on("message", function (message) {
 });
 client.on("guildMemberAdd", (member) => {       //New members welcome message
    console.log(`User: ${member.user.username} has joined ${member.guild.name}`);
-   var canal = client.channels.get("608068078034747394"); //Replace the X (not the quotes) with the Welcome channel on your server.
+   var canal = client.channels.get("X"); //Replace the X (not the quotes) with the Welcome channel on your server.
    var welcomeMessage = new Discord.RichEmbed()
                         .setTitle("Welcome, "+ member.user.username + "!")
                         .setDescription("Please **read the rules**")
@@ -25,7 +25,7 @@ client.on("guildMemberAdd", (member) => {       //New members welcome message
                         .setFooter("This is our little secret... I'm not a human ;)", "https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png"); 
      /* This is the embed message from welcome. You can customize this variables.
     .setTitle stands for te title (obviusly)
-    .setDescriptions sets the text bellow the tittle, aka "Description"
+    .setDescriptions sets the text bellow the title, aka "Description"
     .setColor defines the lateral color of the message. 0x equals # for hex notations. ex: google "white color hex" and you should get the color I used.
     .setThumbnail defines the little pic you got one side of your message. You can replace my content (the profile pic of the new member) with a url, ex: ("https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png"), to set you fav pic as welcome thumbnail.
     .setImage manages the same way .setThumbnail, but for a bigger pic.
