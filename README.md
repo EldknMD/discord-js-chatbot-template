@@ -181,6 +181,7 @@ If you didn't knew before, npm stands for **N**ode **P**ackage **M**anager. It's
 By sending that command to Powershell, you order the console to search `npm` and then npm to run it `install`. You told npm to install all the dependencies on package.json, just discord.js in this case, and all the subdependencies in package-lock.json. Normally, you've to make package.json by using `npm init`, but I've got you covered this time.
 
 4. **It's time...**: Run
+
 ```
 node .
 ```
@@ -188,6 +189,7 @@ node .
 > node bot.js also should work, but `. = the main script here` which is defined on `package.json`
 
 You should see this:
+
 ![alive](https://i.ibb.co/HFzPKvy/It-s-alive.png)
 
 As you can see, the `console.log()` in the first lines of `bot.js` appear here. All seven lines should indicate nothing is wrong.
@@ -198,11 +200,17 @@ Surprise! Our new "friend" is now connected. ~~Not me, don't disturb~~
 To be secure, let's try out their functions.
 
 - [x] Activities change randomly every 10 seconds.
+
 - [x] Reacts to certain words.
+
     ![reactions](https://i.ibb.co/vPCdv4w/reacts.png)
+
 - [x] Answers given commands: two by the moment I wrote this. My prefix is `-`.
+
     ![commands](https://i.ibb.co/X5XnVBd/comamnds.png)
+
 - [x] Cheerfully welcomes new members. This command also announces the new member on the console ~~but is less inspiring~~
+
     ![welcome](https://i.ibb.co/Tr33X03/welcome.png)
 
 ### That's all, my friend.
