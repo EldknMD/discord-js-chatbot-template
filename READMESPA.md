@@ -4,7 +4,7 @@
 
 
 ```utf-8
-Soy hispanohablante, así que no es una traducción de google.
+Soy hispano hablante, así que no es una traducción de google.
 
 Un abrazo.
 ```
