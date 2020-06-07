@@ -121,7 +121,10 @@ The invitation screen will look like this (but in your language). The gray box o
 
 You've got two options for this:
 
-- *Option 1*: Download the repository directly from GitHub, click on the `clone or download` label, then download as a zip (or Git client, if you got it in your PC). The same link is [here](https://github.com/EldknMD/discord-js-chatbot-template/archive/master.zip). I recommend this option if you're not familiar with the next one's terms.
+- *Option 1*: Download the repository directly from GitHub, click on the `clone or download` label, then download as a zip (or Git client, if you got it in your PC). The same link is here:
+
+  [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)](https://github.com/EldknMD/discord-js-chatbot-template/archive/master.zip)
+  I recommend this option if you're not familiar with the next one's terms.
 
 - *Option 2*: Use `git clone` command to clone this repository into your local storage.
 
