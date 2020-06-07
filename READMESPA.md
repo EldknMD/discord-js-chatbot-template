@@ -149,7 +149,11 @@ La pantalla de invitación será como esta. El recuadro gris abre una lista de t
 
 Tienes dos opciones para eso:
 
-- *Opción 1*: Descarga este repositorio directamente desde GitHub. Para esto, clickea sobre el botón `clone or download`, después descargar como zip (O con el cliente Git, si lo tienes instalado en sistema). Ese mismo enlace está [aquí](https://github.com/EldknMD/discord-js-chatbot-template/archive/master.zip). Te recomiendo esta opción si no se te hace familiar la siguiente.
+- *Opción 1*: Descarga este repositorio directamente desde GitHub. Para esto, clickea sobre el botón `clone or download`, después descargar como zip (O con el cliente Git, si lo tienes instalado en sistema). Ese mismo enlace está aquí:
+
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)](https://github.com/EldknMD/discord-js-chatbot-template/archive/master.zip) 
+
+Te recomiendo esta opción si no se te hace familiar la siguiente.
 
 - *Opción 2*: Usa el comando `git clone` en tu consola de comandos para clonar este repositorio en tu sistema.
 
