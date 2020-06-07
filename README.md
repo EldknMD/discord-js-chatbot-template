@@ -1,6 +1,6 @@
 # discord-js-chatbot-template
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](/LICENSE.md)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](/LICENSE)
 
 *Avaliable in spanish / Disponible en español [aquí.](/READMESPA.md)*
 
