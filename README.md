@@ -1,8 +1,13 @@
 # discord-js-chatbot-template
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](/LICENSE)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)](https://github.com/EldknMD/discord-js-chatbot-template/archive/master.zip)  
+
+<hr>
 
 *Avaliable in spanish / Disponible en español [aquí.](/READMESPA.md)*
+
+<hr>
 
 A template for simple chatbots on Discord.
 
