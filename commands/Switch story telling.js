@@ -1,6 +1,6 @@
 exports.run = (client, message, Discord) => {
 
-Message.channel.send:("Hello!") //Initial message
+Message.channel.send("Hello!") //Initial message
 .then(() => {
     message.channel.awaitMessages(response => response.content, {
       max: 1,
