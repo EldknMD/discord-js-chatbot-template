@@ -260,7 +260,7 @@ You've got everything you need.
 
 Your bot will work until end of time now... unless you disconnect PowerShell or turn off your PC. But don't worry... The next step will  bring the for solution that. Coming up: hosting ~~specially free one~~.
 
-I'm pretty sure you've undertand almost everything, you look like a pretty smart human. Don't doubt to comment or send me any questions here or to my discord `(human user)` account EldknMD#4471. I've made this short guide thining in what I wanted to find when I started to code some time ago.
+I'm pretty sure you've undertand almost everything, you look like a pretty smart human. Don't doubt to comment or send me any questions here or to my discord `(human user)` [server](https://discord.gg/ABkruWFQaP). I've made this short guide thining in what I wanted to find when I started to code some time ago.
 
 My firsts programs were discord chat bots, so is much like my "main" skill. I've got a lot of things to learn yet, anyways.
 
