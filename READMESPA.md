@@ -311,7 +311,7 @@ Estoy casi seguro que entendiste casi todo lo que expuse en este pequeño tutori
 Tienes cara de ser un humano bastante inteligente...
 ```
 
-No dudes en contactarme aquí o a mi usuario `humano` en Discord **EldknMD#4471**.
+No dudes en contactarme aquí o a mi usuario `humano` en [Discord](https://discord.gg/ABkruWFQaP)
 
 Hice esta guía pensando en lo que a mi me habría gustado encontrar cuando empecé a programar hace un tiempo atrás. 
 
